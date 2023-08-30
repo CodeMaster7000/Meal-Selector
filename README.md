@@ -9,6 +9,8 @@ Ever felt clueless in the culinary world? Well fear not, for here is MealSelecto
 - `requests` module (can be installed simply with `pip install requests`)
 - Python 3
 
+Huge thanks to TheMealDB or making this repo possible! The API is 100% free to use and doesn't even require an API key.
+
 ## Implementation
 
 Run `python3 Meal Selector.py` in a terminal if you have Python 3.
